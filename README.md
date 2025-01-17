@@ -1,1 +1,1 @@
-# BKTree
+–	Implemented the data structure - Burkhard Keller Tree, commonly known as B-K Tree in C++, using which efficiently searched for the words closest to the target, with reduced time complexity of O(ablogn), where a is the length of misspelled words and b is the average length of words in the dictionary.
